@@ -1,10 +1,10 @@
 # Selva Logesh R
 
-## Hi, I am Full Stack Developer 👩‍💻
+## Hi, I am a Full Stack Developer 👩‍💻
 
-🔭 I'm currently building Projects in ReactJS and actively looking for an entry/mid level React Frontend Developer job.
+🔭 I'm currently building Projects in ReactJS and actively looking for an entry/mid level SDE job.
 
-🌱 I can build websites and web applications in React to solve real Business problems.Apart from React I am also building projects in JavaScript,MERN stack. Other skills on my bucket list for next few months are GraphQL, NextJS, Figma, Photoshop and Bunji Jumping.
+🌱 I can build websites and web applications in React to solve real Business problems. Apart from React I am also building projects in JavaScript,MERN stack. Other skills on my bucket list for next few months are GraphQL, NextJS, Figma, Photoshop and Bungee Jumping.
 
 👩‍🍳 Being a person with multiple hobbies. As a developer I like to mix different technologies and create different recipes.
 
