@@ -12,7 +12,12 @@
 
 ⚡ Fun fact: I like to do Sketching, write Personal Blogs on Wordpress or teach coding to school kids in my leisure hour.
 
-### Available on:
+### Featured repos :
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=selvalogesh&repo=face-mash-jewellery)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=selvalogesh&repo=web-socket-chat-room)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=selvalogesh&repo=python-excel-automation)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=selvalogesh&repo=insert-text-anywhere)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -46,9 +51,9 @@
 
 ---
 
-### Tech Blog✏️:
+<!-- ### Tech Blog✏️:
 
-<!-- - [Dev](https://dev.to/kritika27): Write-ups on ReactJS/Frontend Development.
+- [Dev](https://dev.to/kritika27): Write-ups on ReactJS/Frontend Development.
 - [Blogspot](https://gdgallahabad.blogspot.com/): Written in the past as a Blogger and member of GDG Allahabad while pursuing Computer Science Engineering in college.
   <br/>
   <br/> -->
