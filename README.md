@@ -14,10 +14,10 @@
 
 ### Featured repos :
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=selvalogesh&repo=face-mash-jewellery)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=selvalogesh&repo=web-socket-chat-room)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=selvalogesh&repo=python-excel-automation)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=selvalogesh&repo=insert-text-anywhere)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=selvalogesh&repo=face-mash-jewellery)](https://github.com/selvalogesh/face-mash-jewellery)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=selvalogesh&repo=web-socket-chat-room)](https://github.com/selvalogesh/web-socket-chat-room)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=selvalogesh&repo=python-excel-automation)](https://github.com/selvalogesh/python-excel-automation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=selvalogesh&repo=insert-text-anywhere)](https://github.com/selvalogesh/insert-text-anywhere)
 
 ---
 
