@@ -2,9 +2,9 @@
 
 ## Hi, I am a Full Stack Developer 👩‍💻
 
-🔭 I'm currently building Projects in ReactJS and actively looking for an entry/mid level SDE job.
+🔭 I'm currently working full time.
 
-🌱 I can build websites and web applications in React to solve real Business problems. Apart from React I am also building projects in JavaScript,MERN stack. Other skills on my bucket list for next few months are GraphQL, NextJS, Figma, Photoshop and Bungee Jumping.
+🌱 I can build websites and web applications to solve real Business problems. Other skills on my bucket list for next few months are Rust, NextJS, and Diving.
 
 👩‍🍳 Being a person with multiple hobbies. As a developer I like to mix different technologies and create different recipes.
 
@@ -14,7 +14,6 @@
 
 ### Featured repos :
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=selvalogesh&repo=face-mash-jewellery)](https://github.com/selvalogesh/face-mash-jewellery)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=selvalogesh&repo=web-socket-chat-room)](https://github.com/selvalogesh/web-socket-chat-room)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=selvalogesh&repo=python-excel-automation)](https://github.com/selvalogesh/python-excel-automation)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=selvalogesh&repo=insert-text-anywhere)](https://github.com/selvalogesh/insert-text-anywhere)
@@ -58,7 +57,7 @@
   <br/>
   <br/> -->
 
-![Kritika's Github Stats](https://github-readme-stats.vercel.app/api?username=selvalogesh&count_private=true&theme=dracula&show_icons=true)
+![Selva's Github Stats](https://github-readme-stats.vercel.app/api?username=selvalogesh&count_private=true&theme=dracula&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selvalogesh)](https://github.com/anuraghazra/github-readme-stats)
 
